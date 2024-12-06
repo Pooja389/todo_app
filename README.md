@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management Web Application
 
 This is a simple Flask-based web application that allows users to add tasks with their respective time duration. The tasks are stored in a CSV file and can be viewed and deleted.
@@ -42,3 +43,7 @@ This is a simple Flask-based web application that allows users to add tasks with
    
    
    
+=======
+# color_extractor
+A website that will give you top 10 color used in image uploaded by you
+>>>>>>> be6a6bb6130eb6c897a882feab0cfda60e1cf307
